@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "jimp": "^1.6.0",
+    "multer": "^2.0.2",
+    "netcdf4": "^0.4.1",
+    "canvas": "^2.11.2",
+    "sharp": "^0.33.2",
+    "puppeteer": "^21.5.2"
+  }
+}
