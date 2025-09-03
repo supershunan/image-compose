@@ -1,0 +1,34 @@
+{
+  "screenshotInfo": {
+    "timestamp": "2025-09-03T03:00:21.194Z",
+    "fileName": "screenshot_2025-09-03T03-00-21.png",
+    "format": "PNG",
+    "size": {
+      "width": 2560,
+      "height": 1271,
+      "aspectRatio": 2.014162077104642
+    },
+    "centerCoordinates": {
+      "longitude": 108.6488548175871,
+      "latitude": 33.32453122160166
+    },
+    "cornerCoordinates": {
+      "topLeft": {
+        "longitude": 104.45788960169726,
+        "latitude": 34.965725002909416
+      },
+      "topRight": {
+        "longitude": 112.83982001274588,
+        "latitude": 34.965725002909416
+      },
+      "bottomLeft": {
+        "longitude": 104.45788960169726,
+        "latitude": 31.54393567499446
+      },
+      "bottomRight": {
+        "longitude": 112.83982001274588,
+        "latitude": 31.54393567499446
+      }
+    }
+  }
+}

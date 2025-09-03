@@ -1,0 +1,28 @@
+[
+  {
+    "name": "金堆",
+    "code": "SA000000000M",
+    "longitude": 109.868611,
+    "latitude": 34.29277
+  },
+  {
+    "name": "蓝田",
+    "code": "SA000000001M",
+    "longitude": 109.351903,
+    "latitude": 34.083714
+  },
+  {
+    "name": "佛坪",
+    "code": "SX001",
+    "longitude": 108.014916,
+    "latitude": 33.281029,
+    "pngUrl": "/public/2560-2/SX001.png"
+  },
+  {
+    "name": "镇巴",
+    "code": "SX002",
+    "longitude": 108.015888,
+    "latitude": 32.51594,
+    "pngUrl": "/public/2560-2/SX002.png"
+  }
+]
